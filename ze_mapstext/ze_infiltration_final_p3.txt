@@ -18,7 +18,7 @@
 	}
 	"*** Resist 20 seconds in the poolroom ***"
 	{
-		"chi"		"**在台球室守住20秒 **"
+		"chi"		"**在蓄水室守住20秒 **"
 	}
 	"*** Run to the controlroom and press the button ***"
 	{
